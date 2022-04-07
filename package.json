@@ -1,0 +1,20 @@
+{
+  "name": "courier-sim",
+  "version": "1.0.0",
+  "description": "courier movement simulation on map",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bottorezhan/courier-sim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bottorezhan/courier-sim/issues"
+  },
+  "homepage": "https://github.com/bottorezhan/courier-sim#readme"
+}
